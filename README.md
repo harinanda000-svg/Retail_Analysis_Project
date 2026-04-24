@@ -1,12 +1,12 @@
-# 🛒 Retail Demand Analysis
+#  Retail Demand Analysis
 
-## 📌 Overview
+##  Overview
 
 This project focuses on analyzing retail sales data to understand demand patterns, customer behavior, and business performance. The analysis is performed using Python (Pandas, Matplotlib) and SQL (SQLite), simulating a real-world data analytics workflow.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Analyze sales trends over time
 * Identify high-performing product categories
@@ -16,7 +16,7 @@ This project focuses on analyzing retail sales data to understand demand pattern
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * Pandas
@@ -26,7 +26,7 @@ This project focuses on analyzing retail sales data to understand demand pattern
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset consists of retail transaction records with the following key columns:
 
@@ -45,7 +45,7 @@ Additional features were derived during analysis:
 
 ---
 
-## ⚙️ Data Processing
+##  Data Processing
 
 * Removed unnecessary columns
 * Converted date column to datetime format
@@ -55,7 +55,7 @@ Additional features were derived during analysis:
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
 The following analyses were performed:
 
@@ -67,7 +67,7 @@ The following analyses were performed:
 
 ---
 
-## 🗄️ SQL Integration
+##  SQL Integration
 
 The cleaned dataset was stored in a SQLite database and queried using SQL.
 
@@ -81,7 +81,7 @@ SQL was used for aggregation, while Python was used for visualization and furthe
 
 ---
 
-## 📊 Analysis Approach
+##  Analysis Approach
 
 This project focuses on exploratory data analysis (EDA) to understand retail demand patterns rather than predictive modeling.
 
@@ -104,7 +104,7 @@ A machine learning model was not included, as the dataset does not contain suffi
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * No external factors such as promotions, competition, or inventory data
 * Limited features for advanced predictive modeling
@@ -112,13 +112,13 @@ A machine learning model was not included, as the dataset does not contain suffi
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 This project demonstrates how retail data can be analyzed to extract meaningful business insights. The focus was on data exploration and visualization to understand demand patterns and support decision-making.
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Include external data (holidays, marketing campaigns, etc.)
 * Build interactive dashboards
@@ -126,7 +126,7 @@ This project demonstrates how retail data can be analyzed to extract meaningful 
 
 ---
 
-## 📎 Project Structure
+##  Project Structure
 
 ```
 data/
@@ -138,7 +138,7 @@ README.md
 
 ---
 
-## 👤 Author
+##  Author
 
 Your Name
 Harinand
